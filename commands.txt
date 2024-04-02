@@ -32,3 +32,12 @@ git commit -m "message"
 
 git status
 	> displays the current status of your file/folder
+
+git add <file>..." to update what will be committed)
+git restore <file>..." to discard changes in working directory)
+
+git log 
+	> displays all the commits that were made
+
+git log --oneline
+	> condensed version of the git log
